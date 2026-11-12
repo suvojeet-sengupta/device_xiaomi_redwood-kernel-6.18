@@ -1,5 +1,4 @@
 ufs-qcom.ko
-bootlog.ko
 qti-regmap-debugfs.ko
 clk-dummy.ko
 clk-qcom.ko
